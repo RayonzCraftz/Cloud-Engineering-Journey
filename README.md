@@ -15,6 +15,8 @@
 - Production
 
 ×× Learning Progress
+```
+|
 |
 | -- 00. Foundation/
 |    |- LaaS, PaaS, SaaS
@@ -24,4 +26,5 @@
 |
 |
 |
+```
 |
