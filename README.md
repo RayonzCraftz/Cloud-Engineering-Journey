@@ -17,7 +17,6 @@
 ×× Learning Progress
 ```
 |
-|
 | -- 00. Foundation/
 |    |- LaaS, PaaS, SaaS
 |    |- On-Promise vs Cloud
@@ -27,4 +26,3 @@
 |
 |
 ```
-|
