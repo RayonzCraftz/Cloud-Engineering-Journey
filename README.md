@@ -18,11 +18,11 @@
 ```
 |
 | -- 00. Foundation/
-|    |- LaaS, PaaS, SaaS
+|    |- IaaS, PaaS, SaaS
 |    |- On-Promise vs Cloud
 |    |- Public vs Private vs Hybrid cloud
-|    |- AWS global structure
-|
-|
+|    |- AWS global infrastructure
+|    |- AWS Pricing & Cost
+|    |- Responsibility, Scalability, Elasticity, Ralibility Model. 
 |
 ```
