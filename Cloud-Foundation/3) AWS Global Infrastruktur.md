@@ -8,8 +8,8 @@ Availability Zone adalah cluster of data center atau merupakan sebuah grub yang 
 Server AWS yang berlokasi tersebar di banyak kota di seluruh  untuk menyimpan cache konten yang sering diakses pengguna sehingga perangkat tidak perlu mengambil data ke region utama server dan latency (delay) akan berkurang serta bandwidth server utama berkurang.AWS menyediakan solusi CDM (Content Delivery Network) bernama Amazon CloudFront yang akan menyalin cache file ke server Edge Location terdekat. 
 
 
-> Catatan tambahan
-Kita bisa memanfatkan:
+> Catatan tambahan, 
+kita bisa memanfatkan:
 1. Multi Region menggunakan Route 53: jika aplikasi memerlukan backup jika data user sangat penting bagi perusahaan, maka disarankan untuk tidak menggunakan server dari 1 Region saja agar aplikasi mau senantiasa berjalan. 
 
 2. Multi Availability Zone menggunakan Load Balancer: karena tiap AZ memiliki jarak yang jauh, jadi manfaatkan Multi AZ agar jika 1 cluster bermasalah maka server tetap berjalan. 
